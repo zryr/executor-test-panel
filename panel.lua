@@ -120,7 +120,7 @@ CreateButton("⚙️ Require Support", 0.42, "https://raw.githubusercontent.com/
 CreateButton("🆔 Identity Test", 0.52, "https://raw.githubusercontent.com/InfernusScripts/Executor-Tests/main/Identity/Test.lua")
 CreateButton("📈 Level Test", 0.62, "https://raw.githubusercontent.com/vvult/HIdentity/refs/heads/main/HIdentity")
 CreateButton("🧊 3D Visualization Test", 0.72, "https://raw.githubusercontent.com/1Softworks/3D-Visualization-Test/refs/heads/main/3dtest.lua")
-CreateButton("🚄 Execution Speed Test", 0.82, "https://raw.githubusercontent.com/realdefinity/executiontest/main/test")
+CreateButton("🚄 Execution Speed Test", 0.82, "https://raw.githubusercontent.com/realdefinity/tests/main/executiontest")
 
 local dragging
 local dragInput
