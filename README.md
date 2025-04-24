@@ -1,4 +1,4 @@
-# 🔬 Executor Test Panel v4.0
+# 🔬 Executor Test Panel (ETP) v4.0
 
 ### 《📈》Major UI CChange
 - More compact UI with a scroll feature for test buttons.
